@@ -1,21 +1,23 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=29293d&height=120&section=header&text=Leandro&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e9e9eb&height=120&section=header&text=Leandro&fontSize=30&fontColor=66ffff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=858585&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leandro+Paulino!;I'm+26+years+old;I+from+Brazil;I+study+programming+at+Udemy+and+IFPB;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66ffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leandro+Paulino!;I'm+26+years+old;I+from+Brazil;I+study+programming+at+Udemy+and+IFPB;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">
   <a href="https://github.com/LeandroPaul">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroPaul&theme=nord&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroPaul&layout=compact&langs_count=7&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroPaul&theme=blue-green&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroPaul&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
 ![snake gif](https://github.com/rubemalecks/rubemalecks/blob/output/github-contribution-grid-snake.svg)
 
 
-<div>  
-<a href="https://www.linkedin.com/in/rubem-%C3%A1lecks-a3ab961b8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
- <a href="https://www.instagram.com/rubinho.py/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<div>
+<a href="https://www.linkedin.com/in/leandro-paulino-880a58244/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+ 
+ 
+ 
  
   
 </div>
